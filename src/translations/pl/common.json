@@ -1,0 +1,104 @@
+{
+  "main": {
+    "title": "MATMAX",
+    "subtitle": "nierdzewka",
+    "footer": "© 2020 MATMAX Wszystkie prawa zastrzeżone"
+  },
+  "instructions": {
+    "changeLng": "Zmień język"
+  },
+  "notFound": {
+    "header": "Nie znaleziono takiej strony!",
+    "link": "Wróć na stronę główną"
+  },
+  "pages": {
+    "home": "Home",
+    "about": "O nas",
+    "services": "Oferta",
+    "contact": "Kontakt"
+  },
+  "about": {
+    "title": "Kim jesteśmy",
+    "textShort": {
+      "first": "Firma Mat-Max powstała w 1998 roku.",
+      "second": "Od początku specjalizujemy się w produkcji najwyższej jakości konstrukcji ze stali nierdzewnej i kwasoodpornej.",
+      "thirdBold": " Priorytetem jest najwyższa jakość wykonania produktów oraz dostosowanie usług do potrzeb każdego Klienta.",
+      "fourth": "W swojej ofercie posiadam zarówno produkty ze stali nierdzewnej oparte o rozwiązania systemowe (kompleksowe rozwiązania umożliwiające proste łączenie poszczególnych elementów np. balustrad bez konieczności używania urządzeń spawalniczych) jak i produkty wykonywane na indywidualne zlecenia Klientów."
+    },
+    "textExtra": {
+      "first": "Dysponuję fachową i doświadczoną kadrą pracowniczą oraz bogatym parkiem maszynowym, co pozwala na realizowanie każdego, w tym również nietypowego i trudnego projektu.",
+      "secondBold": "Stosowane w produkcji materiały cechuje najwyższa jakość oraz konkurencyjna cena zakupu.",
+      "third": "Posiadam bogate doświadczenie w zakresie produkcji:",
+      "thirdList": {
+        "first": "schodów,",
+        "second": "balustrad (w tym elementów systemowych do balustrad oraz akcesoriów balustradowych, takich jak uchwyty, rozety, kule, zaślepki),",
+        "third": "blatów kuchennych i mebli gastronomicznych, ",
+        "fourth": "orurowań samochodów",
+        "fifth": "akcesoriów kominkowych, świeczników, daszków naddrzwiowych i wielu innych produktów."
+      },
+      "fourth": "Wysoką jakość  wyrobów może potwierdzić fakt współpracy z zakładami przetwórczymi takimi jak Espersen, Excelsior Delikatesy czy Polfisch.",
+      "fifth": "Zapraszam do zapoznania się z ofertą i skorzystania z ",
+      "sixth": "formularza kontaktowego!"
+    }
+  },
+  "services": {
+    "title": "Nasza oferta",
+    "stairs": "Schody",
+    "stairsText": {
+      "firstBold": "W naszej ofercie znajdują się zarówno schody zewnętrzne jak i schody wewnętrzne",
+      "second": "Możemy je wykonać w modelu zabiegowym, spiralnym, prostym, bądź innym, zależnym od projektu.",
+      "third": "Zajmujemy się pełną konstrukcją schodów metalowych ze stopniami drewnianymi, metalowymi, szklanymi, bądź z kamienia. Mogą być wykonane ze stali nierdzewnej lub ze stali konstrukcyjnej, tj. cynkowane, bądź malowane."
+    },
+    "railingsSteel": "Balustrady nierdzewne",
+    "railingsSteelText": {
+      "firstBold": "Wykonujemy balustrady ze stali nierdzewnej i kwasoodpornej.",
+      "second": "Oferujemy możliwość łączenia elementów  balustrady z dowolnie barwionymi elementami drewnianymi oraz wypełnienie z prętów, szkła lub blachy.",
+      "third": "Wśród naszych produktów posiadamy również balustrady systemowe do samodzielnego montażu (proste łączenie poszczególnych elementów balustrad bez konieczności używania urządzeń spawalniczych)."
+    },
+    "counterTopsText": {
+      "firstBold": "Wykonujemy blaty na wymiar, pod indywidualne zamówienie o dowolnym kształcie i grubości ze stali nierdzewnej szlifowanej.",
+      "second": "W blatach mogą być zamontowane między innymi:",
+      "secondList": {
+        "first": "dozowniki,",
+        "second": "komory zlewozmywakowe,",
+        "third": "baterie"
+      }
+    },
+    "gastronomy": "Blaty i meble gastronomiczne",
+    "gastronomyText": {
+      "firstBold": "Wykonujemy wszelkiego rodzaju meble gastronomiczne ze stali nierdzewnej pod indywidualne zamówienie, zgodnie z potrzebą klienta.",
+      "second": "Posiadamy wieloletnie doświadczenie w zakresie produkcji różnego rodzaju wyposażenia, głównie dla zakładów przetwórczych i przemysłu spożywczego w tym zakładów rybnych, mięsnych i piekarni.",
+      "third": "Zaufało nam również wiele restauracji w Koszalinie i poza nim, m.in. „Viva Italia”, „Buongiorno” czy „Maredo”."
+    },
+    "railingsPaint": "Balustrady malowane",
+    "railingsPaintText": {
+      "firstBold": "Wykonujemy balustrady zewnętrzne i wewnętrzne ze stali konstrukcyjnej.",
+      "second": "Rodzaj wykończenia powierzchni to cynkowanie ogniowe lub malowanie proszkowe."
+    }
+  },
+  "address": {
+    "fullName": "Michał Kalwaj",
+    "street": "Pistacjowa 1",
+    "city": "Koszalin, 75-202"
+  },
+  "form":{
+    "name": "Imię i nazwisko",
+    "enterName": "Imię i nazwisko",
+    "emailAddress": "Adres email",
+    "enterEmail": "Email",
+    "message": "Wiadomość",
+    "send": "Wyślij",
+    "reset": "Wyczyść",
+    "header": "Skontaktuj się z nami"
+  },
+  "more": "Więcej",
+  "mailSuccess": "Wiadomość dostarczona!",
+  "mailSuccessMessage": "Dziękujemy za kontakt! Odezwiemy się wkrótce.",
+  "mailFailed": "Coś poszło nie tak!",
+  "mailFailedMessage": "Nie udało się dostarczyć wiadomości.",
+  "messageCookies": "Ta strona wykorzystuje ciasteczka, by działać lepiej.",
+  "acceptCookies": "Rozumiem",
+  "clients": {
+    "header": "Zaufali nam między innymi:"
+  }
+}

@@ -1,0 +1,11 @@
+@mixin image-fullWidth {
+  width: 100%;
+}
+
+@mixin accent {
+  transition: transform 0.3s ease-in-out;
+  background-color: $blue-half-transparent;
+  position: absolute;
+  content: "";
+  z-index: -1;
+}

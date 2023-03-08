@@ -1,0 +1,56 @@
+{
+  "name": "matmax",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "emailjs-com": "^2.4.1",
+    "i18next": "^19.4.4",
+    "i18next-browser-languagedetector": "^4.1.1",
+    "i18next-http-backend": "^1.0.11",
+    "mapbox-gl": "^1.10.1",
+    "node-sass": "^8.0.0",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.6.4",
+    "react-dom": "^16.14.0",
+    "react-helmet": "^6.0.0",
+    "react-i18next": "^11.4.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-test-renderer": "^16.14.0",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "prestart": "npm run scan-images",
+    "start": "react-scripts start",
+    "prebuild": "npm run scan-images",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "scan-images": "cd src && node scanImages.js",
+    "check-updates": "npm outdated",
+    "update-safe": "npm update",
+    "update-major-all": "npx npm-check-updates -u",
+    "postupdate-major-all": "npm install"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-plugin-chai-friendly": "^0.6.0",
+    "eslint-plugin-cypress": "^2.11.2",
+    "prettier": "^2.0.5"
+  }
+}

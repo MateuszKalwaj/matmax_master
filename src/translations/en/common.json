@@ -1,0 +1,105 @@
+{
+  "main": {
+    "title": "MATMAX",
+    "subtitle": "stainless steel",
+    "footer": "© 2020 MATMAX All rights reserved"
+  },
+  "instructions": {
+    "changeLng": "Change language"
+  },
+  "notFound": {
+    "header" : "Page not found!",
+    "link": "Back to home"
+  },
+  "pages": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "Who are we",
+    "textShort": {
+      "first": "Mat-Max was founded in 1998 in Koszalin.",
+      "second": "From the beginning, we specialize in the production of the highest quality constructions made of stainless and acid-resistant steel.",
+      "thirdBold": " The main priority is the best quality of products and adaptation of our services to the needs of each client.",
+      "fourth": "In our offer we have both:products made for individual orders of clients as well as stainless steel products, based on system solutions (comprehensive solutions enabling simple joining of individual elements e.g. balustrades without the need for welding equipment)."
+    },
+    "textExtra": {
+      "first": "I have professional and experienced staff and a wide machine park. It allows me to realize almost any project, even the most unusual one.",
+      "secondBold": "We only use the highest quality materials. We always make sure that they are durable and only from the best sources. Thanks to many years of activity, we have competitive purchase prices.",
+      "third": "I have extensive experience in the field of production:",
+      "thirdList": {
+        "first": "stairs,",
+        "second": "balustrades (including system elements for balustrades and balustrade accessories, such as handles, rosettes, balls or end caps),",
+        "third": "kitchen countertops and gastronomy furniture, ",
+        "fourth": "stainless steel components for cars and bikes,",
+        "fifth": "fireplace accessories, candlesticks, canopies and many, many other products."
+      },
+      "fourth": "The high quality of products can be confirmed by the fact of cooperation with companies such as Espersen, Excelsior Delikatesy, Maredo, Viva Italia or Polfisch.",
+      "fifth": "Feel free to check our offer and ",
+      "sixth": "contact us!"
+    }
+  },
+  "services": {
+    "title": "Our offer",
+    "stairs": "Stairs",
+    "stairsText": {
+      "firstBold": "Our offer includes both external stairs and internal stairs",
+      "second": "We can make them spiral, simple or any other model depending on the project.",
+      "third": "We can design and implement a full stainless steel stairs construction with wooden, metal, glass or stone steps. Stairs can be made of stainless steel or structural steel, i.e. galvanized or painted."
+    },
+    "railingsSteel": "Stainless steel balustrade",
+    "railingsSteelText": {
+      "firstBold": "We manufacture balustrades made of stainless and acid-resistant steel.",
+      "second": "We offer the possibility of combining balustrade elements with any colored wooden elements as well as with fillings made of bars, glass or metal sheet.",
+      "third": "Among our products we also have system railings for self-assembly (simple joining of individual elements of railings without the need for welding equipment)."
+    },
+    "counterTops": "Stainless steel worktops",
+    "counterTopsText": {
+      "firstBold": "We make custom-made tops of any shape and thickness, made of polished stainless steel.",
+      "second": "The tops can be fitted with:",
+      "secondList": {
+        "first": "dispensers,",
+        "second": "sink chambers,",
+        "third": "faucets"
+      }
+    },
+    "gastronomy": "Furniture for gastronomy",
+    "gastronomyText":{
+      "firstBold": "We make all kinds of stainless steel gastronomy furniture according to individual customer needs.",
+      "second": "We have many years of experience in the production of various types of equipment. Across the years we delivered our products mainly for processing plants and the food industry, including fish, meat and bakery factories.",
+      "third": "We have also been trusted by many restaurants in Koszalin and more, including 'Viva Italia', 'Buongiorno' or 'Maredo'."
+    },
+    "railingsPaint": "Painted balustrades",
+    "railingsPaintText": {
+      "firstBold": "We make outdoor and indoor balustrades made of structural steel.",
+      "second": "The type of surface finish is hot dip galvanizing or powder coating."
+    }
+  },
+  "address": {
+    "fullName": "Michał Kalwaj",
+    "street": "Pistacjowa 1",
+    "city": "Koszalin, 75-202"
+  },
+  "form":{
+    "name": "Name",
+    "enterName": "Enter name",
+    "emailAddress": "Email address",
+    "enterEmail": "Enter email",
+    "message": "Message",
+    "send": "Send",
+    "reset": "Reset",
+    "header": "Contact us!"
+  },
+  "more": "More",
+  "mailSuccess": "Message send",
+  "mailSuccessMessage": "Dziękujemy za kontakt! Odezwiemy się wkrótce.",
+  "mailFailed": "Coś poszło nie tak!",
+  "mailFailedMessage": "Nie udało się dostarczyć wiadomości.",
+  "messageCookies": "Ta strona wykorzystuje ciasteczka, by działać lepiej.",
+  "acceptCookies": "Rozumiem",
+  "clients": {
+    "header": "Our customers"
+  }
+}
